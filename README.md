@@ -13,4 +13,4 @@ git clone https://github.com/0xMarius/kaoya.git
 sudo dnf install -y gtk4 libadwaita python3 python3-pip
 pip install Pillow, pytesseract, libretranslate
 ```
-Upgrades and Windows version expected in the future
+Upgrades and Windows version expected in the future.
