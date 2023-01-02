@@ -10,6 +10,7 @@ To build kǎoyā on Fedora GNU/Linux, you may follow these commands:
 
 ```bash
 git clone https://github.com/0xMarius/kaoya.git
-sudo dnf install -y python3 python3-pip
+sudo dnf install -y gtk4 libadwaita python3 python3-pip
 pip install Pillow, pytesseract, libretranslate
 ```
+Upgrades and Windows version expected in the future
